@@ -26,7 +26,7 @@ We are always looking for motivated graduate/undergraduate students interested i
 
 - **[15/09/25]** Talha and Ensar attended the [ECML-PKDD](https://ecmlpkdd.org/2025/) Conference in Porto, Portugal. Talha presented our recent study, “On-Device Learning for Human Activity Recognition on Low-Power Microcontrollers,” at the [ITEM Workshop](https://www.item-workshop.org/).
 
-  <img src='/images/Talha.png' width="400" height="200">
-  <img src='/images/TalhaEnsar.png' width="400" height="200">
+  <img src='/images/Talha.jpeg' width="400" height="200">
+  <img src='/images/TalhaEnsar.jpeg' width="400" height="200">
 
 
