@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ArslanLab"
+title: "Arslan Lab"
 author_profile: true
 redirect_from: 
   - /about/
