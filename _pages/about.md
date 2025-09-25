@@ -28,19 +28,19 @@ We are always looking for motivated graduate/undergraduate students interested i
 
   <img src='/images/Talha.jpeg' width="400" height="200">
 
-  - **[07/07/25]** Our project titled “A Region-Specific Approach to Program Soft Error Vulnerability Analysis, Estimation, and Enhancement” has been selected for funding by TÜBİTAK (The Scientific and Technological Research Council of Turkey) under the 3501 Career Development Project program.
- 
-  - **[25/06/25]** The graduation project by Muhammed Talha Karagül, Ensar Muhammet Yozgat, and Feyzullah Asıllıoğlu, titled “On-Device Learning for Human Activity Recognition on Low-Power Microcontrollers,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2025. Congratulations!
- <img src='/images/bitirme-ödül.jpeg' width="400" height="200">
+- **[07/07/25]** Our project titled “A Region-Specific Approach to Program Soft Error Vulnerability Analysis, Estimation, and Enhancement” has been selected for funding by TÜBİTAK (The Scientific and Technological Research Council of Turkey) under the 3501 Career Development Project program.
 
-   - **[16/06/25]** The graduation project by Muhammed Talha Karagül, Ensar Muhammet Yozgat, and Feyzullah Asıllıoğlu, titled “On-Device Learning for Human Activity Recognition on Low-Power Microcontrollers,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2025. Congratulations!
- <img src='/images/bitirme-ödül.jpeg' width="400" height="200">
+- **[16/06/25]** The graduation project by Muhammed Talha Karagül, Ensar Muhammet Yozgat, and Feyzullah Asıllıoğlu, titled “On-Device Learning for Human Activity Recognition on Low-Power Microcontrollers,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2025. Congratulations!
 
-    - **[10/06/24]** Sadık, Selim, and Sanem attended the [UBMK](https://ubmk.org.tr/) 2024 Conference in Antalya, Türkiye, where Sadık presented our study titled “Soft Error Reliability Assessment of TinyML Algorithms on STM32 Microcontroller.”
+  <img src='/images/bitirme-ödül.jpeg' width="400" height="200">
+
+- **[10/06/24]** Sadık, Selim, and Sanem attended the [UBMK](https://ubmk.org.tr/) 2024 Conference in Antalya, Türkiye, where Sadık presented our study titled “Soft Error Reliability Assessment of TinyML Algorithms on STM32 Microcontroller.”
+
   <img src='/images/ubmk.JPG' width="400" height="200">
  
-    - **[10/06/24]** The graduation project by Sadık Akgedik, Osman Buğra Göktaş, and Ahmet Selim Karakuş, titled “Soft Error Reliability Assessment of TinyML Algorithms Executing on Embedded Devices,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2024. Congratulations!
- <img src='/images/bitirme-ödül-2024.jpeg' width="400" height="200">
+- **[10/06/24]** The graduation project by Sadık Akgedik, Osman Buğra Göktaş, and Ahmet Selim Karakuş, titled “Soft Error Reliability Assessment of TinyML Algorithms Executing on Embedded Devices,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2024. Congratulations!
+
+  <img src='/images/bitirme-ödül-2024.jpeg' width="400" height="200">
 
 
 
