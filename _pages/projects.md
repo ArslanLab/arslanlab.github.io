@@ -6,5 +6,5 @@ author_profile: true
 
 ---
 
-## Projects
+
 - A Region-Specific Approach to Program Soft Error Vulnerability Analysis, Estimation, and Enhancement (TUBITAK 3501 – Career Development Program (CAREER)) - 2025/2027.
