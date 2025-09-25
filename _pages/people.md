@@ -10,7 +10,8 @@ author_profile: true
 - Dr. Sanem Arslan Yılmaz — Principal Investigator
 
 ## Graduate Students
-- Orhan Güneş
+- Orhan Güneş - Master Student
+- Zuhal Altuntaş - PhD Student (Co-advisor)
 
 ## Undergraduate Students
 - Muhammed Talha Karagül 
