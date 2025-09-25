@@ -26,7 +26,9 @@ author_profile: true
 
 ## Conference Papers
 
-- Öztürk Z., Topcuoğlu H. R., **Arslan S.**, Kandemir M. T. “Soft Error Characterization on Scientific Applications.” *2018 IEEE DASC/PiCom/DataCom/CyberSciTec*, pp. 592–599, 2018.
+- Karakuş A. S., Göktaş O. B., Akgedik S., **Arslan S.** “Soft Error Reliability Assessment of TinyML Algorithms on STM32 Microcontroller.” *2024 9th International Conference on Computer Science and Engineering (UBMK)*, Antalya, Türkiye, Oct 26–28, 2024, pp. 660–664. DOI: [10.1109/UBMK63289.2024.10773488](https://doi.org/10.1109/UBMK63289.2024.10773488)
+
+- Öztürk Z., Topcuoğlu H. R., **Arslan S.**, Kandemir M. T. “Soft Error Characterization on Scientific Applications.” *2018 IEEE DASC/PiCom/DataCom/CyberSciTec*, pp. 592–599, 2018. DOI: 10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00109
 
 - Sasongko M. A., Topcuoğlu H. R., **Arslan S.**, Kandemir M. T. “Compiler-Enhanced Reliability for Network-on-Chip Architectures.” *25th Euromicro Intl. Conf. on Parallel, Distributed and Network-based Processing (PDP)*, 2017. DOI: [10.1109/PDP.2017.102](https://doi.org/10.1109/PDP.2017.102)
 
