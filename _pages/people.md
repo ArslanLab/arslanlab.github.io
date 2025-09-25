@@ -8,7 +8,11 @@ author_profile: true
 
 
 ## Faculty
-- Dr. Sanem Arslan Yılmaz — Principal Investigator
+
+<img src='/images/SanemA.jpg' width="180" height="200">
+
+**Dr. Sanem Arslan Yılmaz** — Principal Investigator
+
 
 ## Graduate Students
 - Orhan Güneş - Master Student
