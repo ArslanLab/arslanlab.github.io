@@ -14,7 +14,7 @@ author_profile: true
 
 - **Arslan S.**, Ünsal O. “Efficient selective replication of critical code regions for SDC mitigation leveraging redundant multithreading.” *The Journal of Supercomputing*, 77:14130–14160, 2021. DOI: [10.1007/s11227-021-03804-6](https://doi.org/10.1007/s11227-021-03804-6)
 
-- Öz İ., **Arslan S.** “Predicting the Soft Error Vulnerability of Parallel Applications Using Machine Learning.” *International Journal of Parallel Programming*, 49:410–439, 2021. DOI: [10.1007/s10766-020-00684-6](https://doi.org/10.1007/s10766-020-00684-6)
+- Öz İ., **Arslan S.** “Predicting the Soft Error Vulnerability of Parallel Applications Using Machine Learning.” *International Journal of Parallel Programming*, 49:410–439, 2021. DOI: [10.1007/s10766-021-00707-0](https://doi.org/10.1007/s10766-021-00707-0)
 
 - Öz İ., **Arslan S.** “A Survey on Multithreading Alternatives for Soft Error Fault Tolerance.” *ACM Computing Surveys*, 52(2), 2019. DOI: [10.1145/3302255](https://doi.org/10.1145/3302255)
 
