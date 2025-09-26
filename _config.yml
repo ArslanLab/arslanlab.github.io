@@ -24,7 +24,7 @@ repository               : "arslab-mu.github.io"
 author:
   # Biographic information
   avatar           : "logo5.png"
-  name             : "ARSlab-MU"
+  name             : "ARS-Lab"
   pronouns         : # example: "she/her"  
   bio              : "Architectures for Resilient and Scalable Systems"
   location         : 
