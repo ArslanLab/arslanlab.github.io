@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Arslan Lab is a research group led by Dr. Sanem Arslan Yılmaz at the [Computer Engineering Department](https://cse-eng.marmara.edu.tr/),  [Marmara University](https://www.marmara.edu.tr).
+ARSlab is a research group led by Dr. Sanem Arslan Yılmaz at the [Computer Engineering Department](https://cse-eng.marmara.edu.tr/),  [Marmara University](https://www.marmara.edu.tr).
 
 Our group focuses on various issues:
 
