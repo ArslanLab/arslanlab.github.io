@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ARSlab"
+title: "ARSlab-MU"
 author_profile: true
 redirect_from: 
   - /about/
