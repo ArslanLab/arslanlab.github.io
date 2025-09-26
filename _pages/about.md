@@ -14,7 +14,7 @@ Our group focuses on various issues:
 - **Fault-Tolerant Computing** – principles, architectures, and techniques for building resilient systems
 - **Reliability Analysis of AI/ML Models** – robustness and fault injection studies of machine learning models
 - **Machine Learning at the Edge** - TinyML, federated learning, and on-device AI for microcontrollers and embedded platforms
-- **High Performance Computing** - parallelization and scalability analysis of scientific applications
+- **High Performance Computing** - parallelization, workload scheduling/mapping, and scalability analysis of scientific applications
 - **Computer Architecture** – microarchitecture-level reliability, error detection, and mitigation
 
 
