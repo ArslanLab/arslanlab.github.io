@@ -23,7 +23,7 @@ repository               : "arslab-mu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "arslab2.png"
+  avatar           : "logo5.png"
   name             : "ARS-Lab"
   pronouns         : # example: "she/her"  
   bio              : "Architectures for Resilient and Scalable Systems"
